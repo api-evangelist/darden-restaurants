@@ -1,7 +1,12 @@
 aid: darden-restaurants
-url: https://raw.githubusercontent.com/api-evangelist/darden-restaurants/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/darden-restaurants/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.darden-restaurants.com
+description: >-
+  Darden Restaurants is the largest full-service restaurant company in the world,
+  owning and operating restaurant brands such as Olive Garden, LongHorn Steakhouse,
+  Capital Grille, Yard House, and others.
