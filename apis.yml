@@ -14,7 +14,7 @@ tags:
 created: '2026-03-21'
 modified: '2026-04-28'
 specificationVersion: '0.19'
-xType: company
+kind: company
 description: >-
   Darden Restaurants is the largest full-service restaurant company in the
   world, owning and operating brands such as Olive Garden, LongHorn
