@@ -25,6 +25,8 @@ description: >-
   Uber for delivery.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/darden
   - type: Website
     url: https://www.darden.com
   - type: Brands
