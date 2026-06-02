@@ -3,6 +3,8 @@ Darden Restaurants is the largest full-service restaurant company in the world, 
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/darden-restaurants/refs/heads/main/apis.yml)
 
+**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+
 ## Scope
 
 - **Type:** Index
@@ -17,15 +19,16 @@ Darden Restaurants is the largest full-service restaurant company in the world, 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-04-28
+- **Modified:** 2026-06-02
 
 ## APIs
 
-No public developer APIs are published by Darden Restaurants or its operating brands.
+No public developer APIs are published by Darden Restaurants or its operating brands. Darden has publicly stated it has no need for a discount or loyalty program, and its digital surface is limited to consumer mobile ordering apps (Olive Garden, LongHorn Steakhouse) and the internal Krowd employee portal. Delivery is handled through third-party partners such as Uber. No public GitHub organization, MCP servers, Claude Code skills, or Kubernetes CRDs were found.
 
 ## Common Properties
 
 - [Website](https://www.darden.com)
+- [Company](https://www.darden.com/our-company)
 - [Brands](https://www.darden.com/our-brands)
 - [Investor Relations](https://investor.darden.com/)
 - [Newsroom](https://www.darden.com/news)
@@ -37,6 +40,8 @@ No public developer APIs are published by Darden Restaurants or its operating br
 - [Bahama Breeze](https://www.bahamabreeze.com/)
 - [Seasons 52](https://www.seasons52.com/)
 - [Ruth's Chris Steak House](https://www.ruthschris.com/)
+- [Eddie V's Prime Seafood](https://www.eddiev.com/)
+- [Chuy's](https://www.chuys.com/)
 
 ## Maintainers
 

@@ -12,7 +12,7 @@ tags:
   - Hospitality
   - Restaurants
 created: '2026-03-21'
-modified: '2026-04-28'
+modified: '2026-06-02'
 specificationVersion: '0.19'
 kind: company
 description: >-
@@ -29,6 +29,8 @@ common:
     url: https://www.linkedin.com/company/darden
   - type: Website
     url: https://www.darden.com
+  - type: Company
+    url: https://www.darden.com/our-company
   - type: Brands
     url: https://www.darden.com/our-brands
   - type: Investor Relations
@@ -51,6 +53,10 @@ common:
     url: https://www.seasons52.com/
   - type: Ruth's Chris Steak House
     url: https://www.ruthschris.com/
+  - type: Eddie V's Prime Seafood
+    url: https://www.eddiev.com/
+  - type: Chuy's
+    url: https://www.chuys.com/
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
