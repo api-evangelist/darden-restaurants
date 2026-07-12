@@ -25,6 +25,8 @@ description: >-
   Uber for delivery.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/darden-restaurants-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/darden
   - type: Website
