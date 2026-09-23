@@ -1,7 +1,9 @@
 ---
 title: Darden Uses Analytics To Understand Restaurant Customers
 url: https://www.informationweek.com/machine-learning-ai/darden-uses-analytics-to-understand-restaurant-customers
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Darden Restaurants" press release artificial intelligence'
 position: 5
 source: serpapi-google

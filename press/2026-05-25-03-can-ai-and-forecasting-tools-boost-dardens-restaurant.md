@@ -1,7 +1,9 @@
 ---
 title: Can AI and Forecasting Tools Boost Darden's Restaurant ...
 url: https://www.theglobeandmail.com/investing/markets/stocks/DRI/pressreleases/1323306/can-ai-and-forecasting-tools-boost-dardens-restaurant-efficiency/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Darden Restaurants" press release artificial intelligence'
 position: 3
 source: serpapi-google

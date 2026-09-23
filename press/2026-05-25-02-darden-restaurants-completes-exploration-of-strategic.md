@@ -1,7 +1,9 @@
 ---
 title: Darden Restaurants Completes Exploration of Strategic ...
 url: https://www.prnewswire.com/news-releases/darden-restaurants-completes-exploration-of-strategic-alternatives-for-bahama-breeze-302677522.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Darden Restaurants" press release artificial intelligence'
 position: 2
 source: serpapi-google
