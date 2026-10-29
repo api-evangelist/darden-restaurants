@@ -1,4 +1,4 @@
-# Darden Restaurants (darden-restaurants)
+# Darden Restaurants
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,50 +66,77 @@
 
 Darden Restaurants is the largest full-service restaurant company in the world, owning and operating brands such as Olive Garden, LongHorn Steakhouse, Yard House, The Capital Grille, Cheddar's Scratch Kitchen, Eddie V's, Seasons 52, Bahama Breeze, Ruth's Chris Steak House, and Chuy's. Darden does not publish a public developer API; consumer-facing ordering and loyalty are exposed only via internal mobile apps and partnerships such as Uber for delivery.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/darden-restaurants/refs/heads/main/apis.yml)
+**Areas:** Casual Dining · Fortune 500 · Hospitality · Restaurant
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Darden Restaurants on APIs.io
 
-## Scope
+Everything profiled for Darden Restaurants is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/darden-restaurants/](https://apis.io/providers/darden-restaurants/)** — or go straight to one of the APIs or properties below.
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
-- **xType:** company
+### Published properties
 
-## Tags:
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
- - Casual Dining, Fortune 500, Hospitality, Restaurants
+#### Security (1)
 
-## Timestamps
+Authentication, trust centre, and vulnerability disclosure.
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-06-02
+- [Darden Restaurants Domain Security](https://apis.io/security/darden-restaurants/darden-restaurants-domain-security/)
 
-## APIs
+## Where to find this API
 
-No public developer APIs are published by Darden Restaurants or its operating brands. Darden has publicly stated it has no need for a discount or loyalty program, and its digital surface is limited to consumer mobile ordering apps (Olive Garden, LongHorn Steakhouse) and the internal Krowd employee portal. Delivery is handled through third-party partners such as Uber. No public GitHub organization, MCP servers, Claude Code skills, or Kubernetes CRDs were found.
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.darden.com)
-- [Company](https://www.darden.com/our-company)
-- [Brands](https://www.darden.com/our-brands)
-- [Investor Relations](https://investor.darden.com/)
-- [Newsroom](https://www.darden.com/news)
-- [Olive Garden](https://www.olivegarden.com/)
-- [LongHorn Steakhouse](https://www.longhornsteakhouse.com/)
-- [Yard House](https://www.yardhouse.com/)
-- [The Capital Grille](https://www.thecapitalgrille.com/)
-- [Cheddar's Scratch Kitchen](https://www.cheddars.com/)
-- [Bahama Breeze](https://www.bahamabreeze.com/)
-- [Seasons 52](https://www.seasons52.com/)
-- [Ruth's Chris Steak House](https://www.ruthschris.com/)
-- [Eddie V's Prime Seafood](https://www.eddiev.com/)
-- [Chuy's](https://www.chuys.com/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 2.6** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 40.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/darden-restaurants/](https://apis.io/providers/darden-restaurants/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Darden Restaurants: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/darden-restaurants/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
